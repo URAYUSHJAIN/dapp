@@ -1,6 +1,3 @@
-Sure! Here's a **README.md** section that introduces a dApp (decentralized application). This template is ideal for your dApp projects like `Shayoga`, and can be customized based on your use case (e.g., crowdfunding, identity verification, DAO, etc.).
-
----
 
 ## 🧱 What is a dApp?
 
@@ -54,5 +51,3 @@ Add screenshots or a Loom/Youtube link here.
 | Identity (Optional) | Anon DigiLocker / World ID |
 
 ---
-
-Let me know if you'd like this customized for a specific dApp (like Shayoga, DAO, Voting, NFT Marketplace, etc.) and I’ll tailor the README content accordingly.
